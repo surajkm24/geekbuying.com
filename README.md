@@ -1,6 +1,6 @@
 # GeekBuying.com - Clone Project
 
-#### This project is about building a clone of GeekBuying.com website. GeekBuying.com is one of world's finest e-commerce website dealing in a various types of products with a specialisation in electronic products. Its a group project, developed by a team of 6 members completed in 5 days.
+#### This project is about building a clone of GeekBuying.com website. GeekBuying.com is one of world's finest e-commerce website dealing in a various types of products with a specialisation in electronic products. Its a group project, developed by a team of 6 members completed in 5 days. We have created home page, product page, login page, signup page, cart page and payment page. Users can browse the homepage , look for products, add products to cart, remove products from cart, filter items in cart, order and make payments.
 ## Features Implemented:
 
 > - An attractive landing page listing various products and offers.
